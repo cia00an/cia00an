@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @cia00an
-- 👀 I’m interested in sleeping
-
-- 🌱 I’m currently learning Web Programming
 - 📫 How to reach me : ciawork00@gmail.com
 
 <!---
